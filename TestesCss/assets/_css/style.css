@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family= Playfair + Display:ital@1 & display=swap');
+*{
+    margin:0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'https://fonts.googleapis.com/css2?family= Playfair + Display:ital@1 & display=swap';
+}
+
+ #menu{
+    list-style-type: none;
+    padding: 0;
+    background-color: #000000;
+    text-align: center;
+ }
+
+ #menu li {
+    display: inline-block;
+    padding: 10px;
+ }
+ #menu li a{
+    color: #fff;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    
+ }
+ #menu li a:hover{
+    color: #f01939;
+    
+    
+ }

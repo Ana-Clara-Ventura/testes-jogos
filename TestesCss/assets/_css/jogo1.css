@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Road+Rage&display=swap');
+
+h1.inicio{
+    color: rgb(176, 51, 51);
+    font-family: 'Lobster', cursive;
+    font-family: 'Road Rage', cursive;
+    font-size: 100px;
+    text-align: center;
+}
